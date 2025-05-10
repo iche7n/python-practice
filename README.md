@@ -18,7 +18,7 @@
 - Python
 - Git + GitHub
 - PyCharm Community Edition
----
+
 ## 📜 Лицензия
 
 Проект распространяется под лицензией [MIT License](LICENSE).
