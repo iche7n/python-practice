@@ -6,7 +6,8 @@
 ```
 ├── .idea/ # Служебные файлы PyCharm
 ├── task/
-│ └── project_euler/ # Папка с решением задачи Project Euler №1
+│ └── project_euler/ 
+│ └── leetcode/ 
 ├── .gitignore # Игнорируемые файлы
 ├── LICENSE # Лицензия MIT
 └── README.md # Описание проекта
